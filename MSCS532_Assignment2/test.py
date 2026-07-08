@@ -1,9 +1,4 @@
-"""
-benchmark.py
 
-Tests Merge Sort and Quick Sort using different datasets.
-It records execution time and memory usage.
-"""
 
 import csv
 import time
