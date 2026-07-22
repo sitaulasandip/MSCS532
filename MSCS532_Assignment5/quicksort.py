@@ -1,5 +1,4 @@
 """
-quicksort.py
 
 Implements:
 1. Deterministic Quick Sort
