@@ -19,10 +19,6 @@ python quicksort.py
 
 From the repository root:
 
-```bash
-python -m unittest discover -s tests -v
-```
-
 ## Run the Benchmark
 
 ```bash
